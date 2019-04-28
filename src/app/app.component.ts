@@ -31,8 +31,8 @@ export class AppComponent {
   private textString: string;
   private url: string = '';
   private size: any = {
-    width: 500,
-    height: 800
+    width: 4961,
+    height: 3508
   };
 
   private json: any;
